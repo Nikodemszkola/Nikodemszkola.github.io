@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+   background-image: url(las.jpg);
+    color: yellow;
+}
+.centrum{
+    text-align: center;
+    font-size: 40px;
+}
+#czasreakcji{
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid;
+}
